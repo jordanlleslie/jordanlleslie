@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jordanlleslie
 - 🌱 I’m currently working on a full stack bootcamp on Udemy
-- 📫 How to reach me: you can reach me at jordan02leslie@gmail.com
+- 📫 You can reach me at jordan02leslie@gmail.com
 
 <!---
 jordanlleslie/jordanlleslie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
