@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jordanlleslie
-- 🌱 I’m currently working on a full stack bootcamp on Udemy
+- 🌱 I’m currently working on a website for my frisbee team, Emory Juice
 - 📫 You can reach me at jordan02leslie@gmail.com
 
 <!---
